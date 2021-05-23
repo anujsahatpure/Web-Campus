@@ -1,11 +1,7 @@
-# School Management App UI Flutter | Backend Firebase
+# Web-Campus Flutter | Backend Firebase
 
 Flutter based School Management App | Flutter | Backend Firebase
 
-## Demo
-Demo available on YouTube.
-
-Link: https://www.youtube.com/watch?v=roZYSxsk-ho
 
 ## Screenshot
 
